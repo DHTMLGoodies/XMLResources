@@ -1,0 +1,4 @@
+XMLResources
+============
+
+XML Dummy resources
